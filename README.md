@@ -1,2 +1,2 @@
-# hybrid_beamforming_on_iot
-This repository used to managed matlab code 
+# Hybrid Beamforming on IoT
+This repository used to managed matlab code for final project of 'Hybrid Beamforming on IoT'
