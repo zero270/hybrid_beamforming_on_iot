@@ -1,0 +1,9 @@
+%Initialize system constants
+rng(2014);
+gc = helperGetDesignSpecsParameters();
+
+%Tunable parameters
+tp.txPower = 9;
+tp.txGain = -8;
+tp.mobileRange = 2750;
+tp.mobileAngle = 3;
